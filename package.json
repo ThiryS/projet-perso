@@ -1,0 +1,22 @@
+{
+  "name": "projet-perso",
+  "version": "1.0.0",
+  "description": "blog",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch assets/scss -o assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiryS/projet-perso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiryS/projet-perso/issues"
+  },
+  "homepage": "https://github.com/ThiryS/projet-perso#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
